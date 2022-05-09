@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='104.37.190.203';
 USER='rspluson_vpn';
-PASS='abolirez_gbd';
+PASS='@@@@F1r3n3t';
 DBNAME='rspluson_vpn';
 
 install_require()
