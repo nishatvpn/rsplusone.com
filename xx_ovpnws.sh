@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='174.138.183.243';
-USER='abolirez_gbd';
+HOST='104.37.190.203';
+USER='rspluson_vpn';
 PASS='abolirez_gbd';
-DBNAME='abolirez_gbd';
+DBNAME='rspluson_vpn';
 
 install_require()
 {
